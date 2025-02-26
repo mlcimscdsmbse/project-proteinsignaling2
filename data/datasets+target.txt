@@ -1,0 +1,23 @@
+#	Dataset			Reagent			Target		Type
+
+1	cd3cd28_1.csv		Anti-CD3/CD28		No		-
+2	cd3cd28+aktinhib_3.csv	AKT inhibitor		AKT		inhibitor
+3	cd3cd28+g0076_4.csv	G06976			PKC		inhibitor
+4	cd3cd28+psitect_5.csv	Psitectorigenin		PIP2		inhibitor
+5	cd3cd28+u0126_6.csv	U0126			Mek		inhibitor
+6	cd3cd28+ly_7.csv	LY294002		AKT		activator
+
+
+Node	Name (also called)
+
+1	praf (Raf)
+2	pmek (Mek)
+3	plcg (PLC)
+4	PIP2
+5	PIP3
+6	p44/42 (Erk)
+7	pakts473 (Akt)
+8	PKA
+9	PKC
+10	P38
+11	pjnk (JNK)
