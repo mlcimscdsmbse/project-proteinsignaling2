@@ -51,6 +51,26 @@ algorithms. In particular:
    comparison with the results reported in Sachs (2005), try to figure out
    which better matches the underlying biology;
 
+## Deliverables
+
+You should write your analysis in an R Markdown or Python notebook, intertwining
+text and code to facilitate the understanding of the analysis steps and their
+reproducibility. You should include the source code of the notebook as well as
+the HTML output file of that notebook, along with all the files involved in the
+analysis. The resulting HTML output should have the form of a report with the
+following sectioning:
+
+* Front matter (title of the project, name of the authors, date)
+* Abstract (no more than 200 words summarising the question and findings)
+* Introduction (explaining the data and the question addressed)
+* Results (the whole analysis of the data, intertwining explanations with code
+  and display items -tables and/or figures)
+* Discussion (wrap up what your found and discuss limitations of the data or
+  the approach you followed, and how would you improve the analysis and/or the
+  addressing of that question)
+
+Failing in any of these formal aspects will penalize the grade.
+
 ## Submission procedure
 
 This project has to be submitted using
