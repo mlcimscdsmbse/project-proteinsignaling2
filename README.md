@@ -1,6 +1,6 @@
 # Protein signaling project
 
-### Machine Learning and Causal Inference. MSc in Data Science Methodology. Barcelona School of Economics.
+### Causal Inference and Machine Learning. MSc in Data Science Methodology. Barcelona School of Economics.
 
 Project idea contributed by Alessandro Mascaro (UPF), based on an initial proposal by Sara
 Magliacane (University of Amsterdam).
@@ -76,7 +76,7 @@ Failing in any of these formal aspects will penalize the grade.
 This project has to be submitted using
 [GitHub Classroom](https://classroom.github.com). This means that you should
 have cloned the GitHub repo of this project from the organization account for
-MLCI https://github.com/mlci25 using the submission link provided through
+CIML https://github.com/MLCIXX using the submission link provided through
 Google Classroom.
 
 Once you have cloned this GitHub repo, then you can work on it in your local
